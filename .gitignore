@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Env files
+.env
+
+# Docker
+*.log
+
+# OS
+.DS_Store
